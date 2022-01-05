@@ -1,0 +1,14 @@
+{
+  "name": "cors-proxy-weather-forecast",
+  "version": "1.0.0",
+  "description": "Proxy API for weather forecast",
+  "main": "index.js",
+  "author": "Sebastián Vicencio",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
