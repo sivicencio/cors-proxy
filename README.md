@@ -34,4 +34,4 @@ If you don't specify an origin, `http://localhost:3000` is used by default.
 
 ## Deploy
 
-You can easily deploy this proxy API with Heroky, following [their instructions](https://devcenter.heroku.com/articles/getting-started-with-nodejs). Please be aware that **you must specify an origin** as an environment variable in this case.
+You can easily deploy this proxy API with Heroku, following [their instructions](https://devcenter.heroku.com/articles/getting-started-with-nodejs). Please be aware that **you must specify an origin** as an environment variable in this case.
